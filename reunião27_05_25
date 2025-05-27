@@ -1,1 +1,82 @@
+---
+name: 📝 Ata de Reunião
+about: Registre uma nova ata de reunião para o projeto.
+title: "Ata de Reunião - 27/05/2025"
+labels: reunião, ata
+assignees: ''
+---
+
+## ✅ Data da Reunião:
+27/05/2025
+
+## ✅ Horário:
+- Início: 10:15
+- Término: 11:15
+
+## ✅ Local:
+[Presencial - Sala 6 SECTRAS]
+
+## ✅ Participantes:
+- Carla de Medeiros
+- André Caíque
+- Felipe Delfino
+- Monyelly Salvino
+- Professor Renato Atouguia
+
+---
+
+## ✅ Pauta da Reunião:
+1. Reforço de responsabilidades e incentivo à prática.
+2. Definição do escopo do MVP e prazo.
+3. Apresentações de Felipe, Caíque, Monyelly e Carla.
+
+---
+
+## ✅ Decisões Tomadas:
+- Entregar o MVP até 20/06.
+- O portal será focado na oferta de serviços com modelo P2P, Pessoas físicas podem oferecer e contratar serviços diretamente entre si.
+Não há um intermediário ou empresa que centraliza todas as transações.
+Esse modelo é inspirado em plataformas como:
+➡️ GetNinjas
+➡️ OLX Serviços
+O portal atua como facilitador para que autônomos encontrem clientes de forma direta.
+- Listar serviços e categorias como prioridade.
+
+---
+
+## ✅ Tarefas Definidas:
+
+| Tarefa | Responsável | Prazo |
+|--------|-------------|-------|
+| Criar email institucional ENTEC | Professor (Diretor do Projeto) | 29/05 |
+| Criar mapeamento MVP inspirado na tela proposta por Diretor | Carla | 29/05 |
+| Listar serviços e categorias | Carla - merante aprovação de todos - MVP | 29/05 |
+| Definir escopo do front-end (responsivo) | Caíque | APÓS entrega e aprovação de MVP |
+| Definir escopo do Back-end | Felipe | APÓS entrega e aprovação de MVP |
+| Definir Banco Relacional | Monyelly | APÓS entrega e aprovação de MVP |
+
+
+---
+
+## ✅ Pendências:
+- Definir detalhes sobre hospedagem (dúvida de Felipe).
+
+---
+
+## ✅ Próxima Reunião:
+- Data e Horário: 03/06/2025 - 10:30
+- Pauta prevista:  
+  - [ ] Acompanhamento do mapeamento MVP e suas produções  
+  - [ ] Abertura para dúvidas. 
+
+---
+
+## ✅ Observações Finais:
+- Reforço: "Não somos sala de aula, somos empresa."
+- Modelo P2P para oferta de oportunidades exclusivamente para pessoas físicas.
+- Apresentações importantes:
+  - **Felipe**: API de serviços com login e mapeamento via Postman.
+  - **Caíque**: Protótipos e templates baseados no modelo GetNinjas.
+  - **Mony**: Entidade de relacionamentos atualizada para Pessoa Física.
+  - **Carla**: Responsável por abrir e definir o MVP.
 

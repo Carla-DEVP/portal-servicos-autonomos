@@ -18,11 +18,11 @@ assignees: ''
 [Presencial/Remoto - Link da reunião]
 
 ## ✅ Participantes:
-- Carla
-- Caíque
-- Felipe
-- Mony
-- [Outros]
+- Carla de Medeiros - Project Manager
+- André Caíque - Frontend
+- Felipe Delfino - Backend
+- Monyelly Salvino - Banco de Dados
+- Professor Renato Atouguia - Project Sponsor
 
 ---
 

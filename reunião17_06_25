@@ -1,1 +1,45 @@
+name: 📝 Ata de Reunião
+about: Registre uma nova ata de reunião para o projeto.
+title: "Ata de Reunião - 17/06/2025"
+labels: reunião, ata
+assignees: ''
 
+✅ Data da Reunião:
+17/06/2025
+
+✅ Horário:
+Início: [11:00]
+Término: [12:20]
+✅ Local:
+[Presencial - sala ENTEC]
+
+✅ Participantes:
+Carla de Medeiros - Project Manager
+André Caíque - Frontend
+Felipe Delfino - Backend
+Monyelly Salvino - Banco de Dados
+Professor Renato Atouguia - Project Sponsor
+
+✅ Pauta da Reunião:
+Discussão sobre a viabilidade do MVP para finalizar o projeto ENTEC.
+Reforço sobre a importância da continuidade e integração do projeto (Back-end, Front-end, Banco de Dados).
+Status atual do projeto e definição de entregáveis.
+Análise da implementação e uso de I.A. no projeto.
+
+✅ Decisões Tomadas:
+O MVP é essencial para a conclusão do projeto ENTEC.
+É crucial manter a continuidade das fases de Back-end, Front-end e Banco de Dados.
+A interface gráfica é parte do Front-end, mas não representa a totalidade.
+A I.A. necessita de constantes revisões e atualizações.
+Integração é chave: usar as ferramentas em conjunto e evitar a separação de frentes de trabalho.
+Houve alinhamento sobre a integração do Front-end, Back-end e Banco de Dados.
+
+✅ Tarefas Definidas:
+Tarefa	Responsável	Prazo
+Garantir continuidade e integração de Back-end, Front-end e Banco de Dados	Equipe (Felipe, André, Monyelly)	20/06/2025
+Integrar Banco de Dados e auxiliar na integração geral do projeto	(Monyelly e Felipe)	20/06/2025
+Implementar o uso de I.A. no projeto, considerando exemplos práticos	Equipe	20/06/2025
+
+
+✅ Observações Finais:
+As informações da reunião de 17/06/2025 foram incorporadas, especialmente as relacionadas à I.A. e integração, para refletir o panorama mais recente das discussões e entregáveis.

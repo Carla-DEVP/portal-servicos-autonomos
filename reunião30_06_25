@@ -1,0 +1,72 @@
+---
+name: 📝 Ata de Reunião
+about: Registre uma nova ata de reunião para o projeto.
+title: "Ata de Reunião - 30/06/2025"
+labels: reunião, ata
+assignees: ''
+---
+
+## ✅ Data da Reunião:
+30/06/2025
+
+## ✅ Horário:
+- Início: 17:00
+- Término: 18:20
+
+## ✅ Local:
+[Presencial / LABORATÓRIO ENTEC]
+
+## ✅ Participantes:
+- Carla de Medeiros
+- André Caíque
+- Professor Renato Atouguia
+
+---
+
+## ✅ Pauta da Reunião:
+1. Apresentação do MVP concluído por André Caíque.
+2. Sugestões de melhorias e incrementos na estrutura do projeto.
+3. Discussão sobre nomenclatura do site.
+
+---
+
+## ✅ Decisões Tomadas:
+- MVP de Front-end com interligações ao banco de dados foi concluído com sucesso, apresentado por André Caíque.
+- O professor Renato Atouguia sugeriu os seguintes acréscimos ao projeto:
+  - Barra de busca
+  - Segmentações por categoria
+  - Mosaico inicial de serviços
+  - Ranking de prestadores
+  - Espaço para patrocinados
+- Monyelly ficará responsável por trabalhar nas **categorias** e implementar a **chave estrangeira** no banco de dados.
+- Sugestão de nome para a plataforma feita por André Caíque: **OJOB**
+
+---
+
+## ✅ Tarefas Definidas:
+
+| Tarefa | Responsável | Prazo |
+|--------|-------------|-------|
+| Implementar barra de busca, segmentações e mosaico inicial | André Caíque | A definir |
+| Criar estrutura de ranking e campo para patrocinados | André Caíque | A definir |
+| Estruturar categorias e chave estrangeira no banco | Monyelly | A definir |
+
+---
+
+## ✅ Pendências:
+- Definição de prazos para implementação das novas funcionalidades.
+- Avaliação da viabilidade técnica do ranking e dos serviços patrocinados.
+
+---
+
+## ✅ Próxima Reunião:
+- A ser marcada pelo grupo do WhatsApp.
+
+---
+
+## ✅ Observações Finais:
+- MVP inicial finalizado com sucesso.
+- O nome **OJOB** foi sugerido para representar a plataforma de busca por serviços.
+- Aguardam-se as próximas implementações para evolução do projeto.
+
+

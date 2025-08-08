@@ -1,0 +1,50 @@
+nomesobretítulorótuloscessionários📝 Ata de Reunião
+Registre uma nova reunião para o projeto.
+Ata de Reunião - 08/08/2025
+reunião, ata
+✅ Data da Reunião:
+
+[08/08/2025]
+✅ Horário:
+
+Início: [11:00]
+Término: [11:20]
+✅ Local:
+
+[Remoto - Microsoft Teams]
+✅ Participantes:
+
+Carla de Medeiros - Gerente de Projetos
+André Caíque - Frontend
+Felipe Delfino - Backend
+Monyelly Salvino - Banco de Dados
+Professor Renato Atouguia - Patrocinador do Projeto
+✅ Pauta da Reunião:
+
+[Apresentação e aprovação dos protótipos de tela]
+[Deliberação sobre o padrão de armazenamento de arquivos (Blob vs. Sistema de Arquivos)]
+[Definição dos próximos passos e responsabilidades]
+✅ Decisões Tomadas:
+
+[Os protótipos de tela apresentados por André Caíque foram aprovados por todos.]
+[O projeto não utilizará armazenamento Blob no banco de dados. Os arquivos serão salvos no sistema de arquivos do servidor e o banco de dados armazenará apenas a referência (caminho/URL) a eles.]
+[O processo Stage-Gate será adotado para a gestão do projeto, com fases de execução e pontos de revisão.]
+✅ Tarefas Definidas:
+
+| Tarefa                                        | Responsável       | Prazo    |
+| --------------------------------------------- | ----------------- | -------- |
+| [Implementar a autenticação de usuário]         | [Felipe Delfino]  | [A definir] |
+| [Adotar o processo Stage-Gate no projeto]     | [Carla de Medeiros]| [A definir] |
+
+✅ Pendências:
+
+[Nenhuma pendência registrada.]
+✅ Próxima Reunião:
+
+Data e Horário: [18/08/2025 - 11:00]
+Pauta prevista:
+[Acompanhamento das tarefas definidas]
+[Revisão do primeiro Gate do projeto]
+✅ Observações Finais:
+
+[Os protótipos foram criados na plataforma Lovable.dev. A decisão sobre o armazenamento visa evitar sobrecarga no banco de dados, melhorar a performance e facilitar a manutenção.]
